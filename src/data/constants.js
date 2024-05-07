@@ -5,7 +5,7 @@ export const Bio = {
     "As a final year BSc Computer Science student, my goal is to secure a position as a Software Developer where I can utilize my skills in front-end and back-end development to contribute to exciting projects and continue learning and growing in the field.",
   github: "https://github.com/tarachand-k",
   resume:
-    "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
+    "https://drive.google.com/file/d/129zVXxz52-5RPbXkYy71El2Gb2lpdzOe/view?usp=sharing",
   linkedin: " https://www.linkedin.com/in/tarachand-khorwal/",
   twitter: "https://twitter.com/tarachand_kh/",
   insta: "https://www.instagram.com/khorwal_tt/",
