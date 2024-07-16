@@ -2,7 +2,7 @@ export const Bio = {
   name: "Tarachand Khorwal",
   roles: ["Full Stack Developer", "CS Student", "Programmer"],
   description:
-    "As a final year BSc Computer Science student, my goal is to secure a position as a Software Developer where I can utilize my skills in front-end and back-end development to contribute to exciting projects and continue learning and growing in the field.",
+    "As a BSc Computer Science student, my goal is to secure a position as a Software Developer where I can utilize my skills in front-end and back-end development to contribute to exciting projects and continue learning and growing in the field.",
   github: "https://github.com/tarachand-k",
   resume:
     "https://drive.google.com/file/d/129zVXxz52-5RPbXkYy71El2Gb2lpdzOe/view?usp=sharing",
@@ -282,29 +282,29 @@ export const skills = [
           "https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg",
       },
       {
-        name: "React Query",
-        image: "react-query.png",
-      },
-      {
         name: "Next Js",
         image: "next.jpeg",
       },
-
       {
         name: "JavaScript",
         image: "javascript.png",
+      },
+      {
+        name: "TypeScript",
+        image: "typescript.png",
       },
       {
         name: "SASS",
         image: "sass.png",
       },
       {
+        name: "React Query",
+        image: "react-query.png",
+      },
+
+      {
         name: "Styled components",
         image: "styled-components.png",
-      },
-      {
-        name: "TypeScript",
-        image: "typescript.png",
       },
     ],
   },
@@ -318,11 +318,6 @@ export const skills = [
       {
         name: "Express Js",
         image: "express.png",
-      },
-      {
-        name: "Python",
-        image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
       },
       {
         name: "MySQL",
@@ -375,8 +370,8 @@ export const education = [
     school: "ICLE's Motilal Jhunjhunwala College, Vashi",
     date: "Oct 2021 - Sep 2025",
     grade: "9.8 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at ICLE's Motilal Jhunjhunwala College, Vashi. I have completed 4 semesters and have a CGPA of 9.8. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
-    degree: "Bachelor of Science - BSc, Computer Science",
+    desc: "I completed my Bachelor's degree in Computer Science from ICLE's Motilal Jhunjhunwala College affiliated with Mumbai Universtity. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    degree: "Bachelor of Science - Computer Science",
   },
   {
     id: 1,
